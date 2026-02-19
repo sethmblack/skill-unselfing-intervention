@@ -3,8 +3,9 @@ name: unselfing-intervention
 description: Interrupt ego-centered rumination and redirect attention to reality through beauty, outward attention, or focused engagement with the real world.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5252
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - unselfing-intervention
 - writing
